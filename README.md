@@ -1,1 +1,1 @@
-# hotel2
+# hotel
